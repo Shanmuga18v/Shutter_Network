@@ -1,1 +1,1 @@
-# Shutter_Network
+SHUTTER NETWORK is photography webpage for photograpghers 
